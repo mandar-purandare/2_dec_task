@@ -1,0 +1,19 @@
+.invoice-calculator{
+    height: 400px;
+    width: 25%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.invoice-card{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+table th{
+    border: 1px solid black;
+}
+
+table input{
+    width: 50px;
+}
